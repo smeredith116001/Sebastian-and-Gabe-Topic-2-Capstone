@@ -4,6 +4,7 @@ Sebastian and Gabe are starting a new project for design project 2 and because o
 ### Project Information
 ----
 * [Kanban Board](https://github.com/users/smeredith116001/projects/2/views/1)
+* [Project Milestones](https://github.com/smeredith116001/Sebastian-and-Gabe-Topic-2-Capstone/milestone/1)
 ### Tasks - Sebastian
 ---
 
