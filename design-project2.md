@@ -8,12 +8,19 @@ Sebastian and Gabe are starting a new project for design project 2 and because o
 ### Tasks - Sebastian
 ---
 (https://github.com/users/smeredith116001/projects/2/views/1)
+
 Tasks are more in detail in the Board
+
 Tasks:
+
 Research the program
+
 Install with Gabe
+
 Document the process
+
 Explore different capblities of programs
+
 ### Tasks - Gabe
 ---
 (https://github.com/users/smeredith116001/projects/2/views/1)
