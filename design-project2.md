@@ -3,7 +3,7 @@ Sebastian and Gabe are starting a new project for design project 2 and because o
 
 ### Project Information
 ----
-
+* [Kanban Board](https://github.com/users/smeredith116001/projects/2/views/1)
 ### Tasks - Sebastian
 ---
 
