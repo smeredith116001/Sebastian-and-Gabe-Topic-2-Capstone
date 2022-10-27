@@ -35,5 +35,5 @@ Research different methods of deployment
 Research integration with other tools e.g. Juju and Ansible
 
 ### Week 3 and 4
-Joint task with Sebastian to create a physical or virtual environment to deploy systems
+Joint task with Sebastian to deploy a physical or virtual environment and document the process 
 
