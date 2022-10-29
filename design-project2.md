@@ -29,7 +29,7 @@ Research different methods of deployment
 
 * Physical
 * Virtual
-* Openstack
+
 
 ### Week 2  
 Research integration with other tools e.g. Juju and Ansible
