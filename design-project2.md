@@ -25,11 +25,7 @@ Explore different capblities of programs
 ---
 (https://github.com/users/smeredith116001/projects/2/views/1)
 ### Week 1
-Research different methods of deployment
-
-* Physical
-* Virtual
-
+Download and configure MAAS for future use
 
 ### Week 2  
 Research integration with other tools e.g. Juju and Ansible
