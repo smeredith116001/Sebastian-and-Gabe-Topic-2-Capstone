@@ -4,6 +4,26 @@ Below is a link that takes you through the process of how to install MAAS, this 
 
 Here are the commands related to the installation of MAAS on a ubuntu system
 First, you start by following these commands
+###### Install Mass
+`sudo snap install maas`  
+
+###### Install Database
+`sudo snap install maas-test-db`     
+
+###### Start Database
+`sudo snap start maas-test-db`
+
+###### Configure Controller and URI
+`sudo maas init region+rack --database-uri maas-test-db:///`
+
+###### Check Config
+`sudo maas config`
+
+###### Check Status
+`sudo maas status`
+
+######
+
 
 Afterward, you need to navigate to the IP of the machine that the product is running on and like many other products it will bring you to this web page with a UI showing that MAAS was installed 
 Below are some of the pages that will verify that the installation has been completed  
