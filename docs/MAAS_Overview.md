@@ -31,4 +31,4 @@ Once the machine is not needed anymore, it can be released meaning a full disk w
 ### Troubleshooting Experiences 
 If you are having trouble getting MAAS to work using the manual power option, it is very important to turn on the machine at the right time. First, turn on the machine and this will allow MAAS to enter the enlisting phase. After the machine is enlisted it will turn off. On the MAAS web interface the machine will be labeled as “new”. Next, on the web interface select “commission” and then turn the machine on again. After the commissioning phase is complete, the machine will turn off again. On the web interface select “deploy” and turn the machine on one last time. Now the machine will be deployed. It is very important to follow these power steps as turning the machine on at the wrong time may cause problems. 
 
-
+For a more in depth explination on how MAAS works, more information can be found here https://maas.io/how-it-works.
