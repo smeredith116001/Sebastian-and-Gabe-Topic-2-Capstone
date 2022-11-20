@@ -63,9 +63,9 @@ PCI devices
 USB: is all settings related to the USB inputs on the device
 
 Commissiong: Shows what commissions have been cleared as well as it gives the option to make some changes as we did here
-<img width="545" alt="Screenshot_20221110_072611" src="https://user-images.githubusercontent.com/78443183/202925690-9e14f1d3-7ee0-4111-8065-3f83044326c9.png">
+<img width="545" alt="Screenshot_20221110_072611" src="https://user-images.githubusercontent.com/78443183/202925690-9e14f1d3-7ee0-4111-8065-3f83044326c9.png">    
 
-Our Commisson changes 
+Our Commisson changes     
 <img width="664" alt="Screenshot_20221110_072022" src="https://user-images.githubusercontent.com/78443183/202925697-aeaa6f06-f93d-4478-ae5f-7735429bde9e.png">
 
 Tests: Allows you to run certain tests that you may need to check certain parameters are working based on what this box will be used for 
