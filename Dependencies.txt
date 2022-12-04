@@ -1,0 +1,6 @@
+Dependenices:
+
+External: 
+Servers- We need Servers to run the programs MAAS can not be deployed on any machine so this is our biggest and one of our 
+only depencies we need for this project 
+Guidance- We need to make sure we are working with Devin 
